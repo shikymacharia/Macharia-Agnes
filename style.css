@@ -120,8 +120,8 @@ section h2 {
 }
 
 .profile-image {
-    width: 180px;
-    height: 180px;
+    width: 240px; /* Increased width */
+    height: 240px; /* Increased height (must be equal to width for a circle) */
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 30px;
